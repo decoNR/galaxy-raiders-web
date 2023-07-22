@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Melhores Partidas</h1>
+    <h1>Melhores Partidas Dentro</h1>
     <table>
       <thead>
         <tr>
