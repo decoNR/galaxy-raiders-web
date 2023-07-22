@@ -40,6 +40,11 @@ export default {
 .container {
   max-width: 800px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .row {
