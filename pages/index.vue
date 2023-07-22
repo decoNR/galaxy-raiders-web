@@ -20,7 +20,7 @@
 export default {
   methods: {
     exitGame() {
-      window.location.href = 'https://www.youtube.com/watch?v=JaEDfRkFKnk';
+      window.location.href = 'https://www.google.com/';
     }
   }
 };
