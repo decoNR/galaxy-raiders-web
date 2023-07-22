@@ -1,18 +1,5 @@
 <template>
   <div>
-    <nav>
-      <ul>
-        <li :class="{ active: isPageActive('/') }">
-          <nuxt-link to="/">Iniciar partida</nuxt-link>
-        </li>
-        <li :class="{ active: isPageActive('/leaderboard') }">
-          <nuxt-link to="/leaderboard">Placar</nuxt-link>
-        </li>
-        <li>
-          <a href="#" @click="exitGame">Sair</a>
-        </li>
-      </ul>
-    </nav>
     <NuxtPage />
   </div>
 </template>
