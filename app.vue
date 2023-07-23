@@ -4,20 +4,6 @@
   </div>
 </template>
 
-<script>
-export default {
-  methods: {
-    isPageActive(route) {
-      return this.$route.path === route;
-    },
-    exitGame() {
-      // Implementar o código para fechar o jogo, se necessário
-      // Por exemplo: window.close();
-    }
-  }
-};
-</script>
-
 <style>
 * {
   margin: 0;
