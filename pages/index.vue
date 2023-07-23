@@ -49,6 +49,7 @@ body {
   display: block;
   padding: 20px 40px;
   margin: 10px;
+  margin-right: -8px; 
   text-align: center;
   text-decoration: none;
   font-size: 18px;
